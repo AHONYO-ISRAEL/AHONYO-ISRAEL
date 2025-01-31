@@ -15,7 +15,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -41,20 +40,20 @@
 
 <h3 align="left">Technologies & Frameworks I Work With:</h3>
 <ul>
-  <li>⚡ **JavaScript**: From frontend magic to backend brilliance, it's the language that makes the web go round.</li>
-  <li>☕ **Java**: My go-to for building robust, enterprise-level applications. It's always ready to scale.</li>
-  <li>🐍 **Python**: The language that lets me prototype ideas quickly and still keep things clean.</li>
-  <li>💻 **C with .NET MAUI**: Tried my hand at C with .NET MAUI—because why not dabble in some cross-platform app development?</li>
-  <li>⚛️ **React & React Native**: For crafting seamless user experiences across web and mobile platforms.</li>
-  <li>🌱 **Spring Boot**: When building scalable, production-ready applications, Spring Boot is my trusted companion.</li>
+  <li>⚡ JavaScript: From frontend magic to backend brilliance, it's the language that makes the web go round.</li>
+  <li>☕ Java: My go-to for building robust, enterprise-level applications. It's always ready to scale.</li>
+  <li>🐍 Python: The language that lets me prototype ideas quickly and still keep things clean.</li>
+  <li>💻 C with .NET MAUI: Tried my hand at C with .NET MAUI—because why not dabble in some cross-platform app development?</li>
+  <li>⚛️ React & React Native: For crafting seamless user experiences across web and mobile platforms.</li>
+  <li>🌱 Spring Boot: When building scalable, production-ready applications, Spring Boot is my trusted companion.</li>
 </ul>
 
 <h3 align="left">Databases I’ve Worked With:</h3>
 <ul>
-  <li>🔶 **Oracle**: Strong, reliable, and enterprise-ready.</li>
-  <li>🐘 **PostgreSQL**: My favorite choice for handling complex queries with style.</li>
-  <li>🐬 **MySQL**: Always dependable for when I need something fast and efficient.</li>
-  <li>📦 **SQLite**: Perfect for lightweight, embedded databases with zero hassle.</li>
+  <li>🔶 Oracle: Strong, reliable, and enterprise-ready.</li>
+  <li>🐘 PostgreSQL: My favorite choice for handling complex queries with style.</li>
+  <li>🐬 MySQL: Always dependable for when I need something fast and efficient.</li>
+  <li>📦 SQLite: Perfect for lightweight, embedded databases with zero hassle.</li>
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahonyo-israel&show_icons=true&locale=en&layout=compact" alt="ahonyo-israel" /></p>
